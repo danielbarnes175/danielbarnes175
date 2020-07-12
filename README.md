@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/PtNYa9a.png)
 
-### Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px"></h2>
+### Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px"></h2>
 
 My name is Daniel. I'm currently a Senior in Software Engineering at Iowa State University, and I love to bring my ideas to life. 
 
