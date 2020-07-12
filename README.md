@@ -1,12 +1,12 @@
 ![](https://i.imgur.com/PtNYa9a.png)
 
-## Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+### Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 My name is Daniel. I'm currently a Senior in Software Engineering at Iowa State University, and I love to bring my ideas to life. 
 
 While looking through my profile, you're going to find various projects I've worked on. Hopefully you can get some value out of them, and please feel free to reach out if you have any questions or concerns.
 
-## What brings you here?
+### What brings you here?
 
 ***Looking to check out projects I've worked on?***  
 If you're not here to check out anything specific, the pinned repos are always a good place to start. If you're looking for some other projects I've worked on that are pretty cool, check out the following:
@@ -21,7 +21,7 @@ If you're not here to check out anything specific, the pinned repos are always a
 ***Looking for fun facts about me?***  
 :point_right: I have a bunch of them, but my most fun fact is that I love to sing and write songs about ramen.
 
-## Get in touch
+### Get in touch
 
 :turtle: Email: danielbarnes175@gmail.com  
 :penguin: LinkedIn: https://www.linkedin.com/in/danielbarnes175/  
