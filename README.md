@@ -2,8 +2,6 @@
 
 ## Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-
-
 My name is Daniel. I'm currently a Senior in Software Engineering at Iowa State University, and I love to bring my ideas to life. 
 
 While looking through my profile, you're going to find various projects I've worked on. Hopefully you can get some value out of them, and please feel free to reach out if you have any questions or concerns.
@@ -30,22 +28,6 @@ If you're not here to check out anything specific, the pinned repos are always a
 :rabbit2: Twitter: https://twitter.com/Bballdaniel3  
 
 ---
- <div style="text-align:center">
-  
-  [![HitCount](http://hits.dwyl.com/danielbarnes175/danielbarnes175.svg)](http://hits.dwyl.com/danielbarnes175/danielbarnes175)
-  </div>
 
-<!--
-**danielbarnes175/danielbarnes175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![HitCount](http://hits.dwyl.com/danielbarnes175/danielbarnes175.svg)](http://hits.dwyl.com/danielbarnes175/danielbarnes175)  
+![github stats](https://github-readme-stats.vercel.app/api?username=danielbarnes175&show_icons=true)  
