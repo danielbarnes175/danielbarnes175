@@ -28,6 +28,3 @@ If you're not here to check out anything specific, the pinned repos are always a
 :rabbit2: Twitter: https://twitter.com/Bballdaniel3  
 
 ---
-
-[![HitCount](http://hits.dwyl.com/danielbarnes175/danielbarnes175.svg)](http://hits.dwyl.com/danielbarnes175/danielbarnes175)  
-![github stats](https://github-readme-stats.vercel.app/api?username=danielbarnes175&show_icons=true)  
