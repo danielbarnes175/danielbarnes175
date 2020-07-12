@@ -1,3 +1,5 @@
+![](https://i.imgur.com/PtNYa9a.png)
+
 ### Welcome to my profile 👋
 
 My name is Daniel. I'm currently a Senior in Software Engineering at Iowa State University, and I love to bring my ideas to life. 
