@@ -11,9 +11,9 @@ While looking through my profile, you're going to find various projects I've wor
 ***Looking to check out projects I've worked on?***  
 If you're not here to check out anything specific, the pinned repos are always a good place to start. If you're looking for some other projects I've worked on that are pretty cool, check out the following:
 
-[Sprite Creator](https://tomthetornado.github.io/SpriteMaker/src/html/DrawingPage.html) - A website for creating pixel Sprites and Sprite Animations.  
+[YouTube Channel](https://www.youtube.com/channel/UCFhcd2AR1Goxw0UzQ8_n1pQ) - My YouTube channel where I'm creating videos about programming and being a developer.
+[Sprite Creator](https://github.com/TomTheTornado/SpriteMaker) - A website for creating pixel Sprites and Sprite Animations.  
 [Happy Day Twitter Bot](https://github.com/danielbarnes175/happydaytwitterbot) - A bot for Twitter that tweets what's special about the day.  
-[Develop Inspire Create](https://developinspirecreate.com) - A website that represents my core tenants.
 
 ***Looking for more detailed writeups of all the projects I've worked on?***  
 :point_right: Check out my [portfolio](https://danielbarnes175.github.io/portfolio/).
