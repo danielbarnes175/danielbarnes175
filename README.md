@@ -11,7 +11,7 @@ While looking through my profile, you're going to find various projects I've wor
 ***Looking to check out projects I've worked on?***  
 If you're not here to check out anything specific, the pinned repos are always a good place to start. If you're looking for the complete list of what I've worked on, check out the following:
 
-[Projects List](https://www.developinspirecreate.com/links) - A list of all the projects I've created. 
+[Projects List](https://www.developinspirecreate.com/links) - A list of all the projects I've created.  
 [Project Writeups](https://github.com/TomTheTornado/SpriteMaker) - Detailed writeups of all the projects I've created.
 
 ***Looking for more detailed writeups of all the projects I've worked on?***  
