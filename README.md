@@ -9,12 +9,10 @@ While looking through my profile, you're going to find various projects I've wor
 ### What brings you here?
 
 ***Looking to check out projects I've worked on?***  
-If you're not here to check out anything specific, the pinned repos are always a good place to start. If you're looking for the complete list of what I've worked on, check out the following:
+:point_right: If you're not here to check out anything specific, the pinned repos are always a good place to start. 
 
-[Projects List](https://www.developinspirecreate.com/links) - A list of all the projects I've created.  
-
-***Looking for more detailed writeups of all the projects I've worked on?***  
-:point_right: Check out my [portfolio](https://danielbarnes175.github.io/portfolio/).
+***Looking to see my experience?***  
+:point_right: Check out my [resume](https://danielbarnes175.github.io/resume/).
 
 ***Looking for fun facts about me?***  
 :point_right: I have a bunch of them, but my most fun fact is that I love to sing and write songs about ramen.
