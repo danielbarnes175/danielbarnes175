@@ -19,8 +19,8 @@ While looking through my profile, you're going to find various projects I've wor
 
 ### Get in touch
 
-:turtle: Email: danielbarnes175@gmail.com  
-:penguin: LinkedIn: https://www.linkedin.com/in/danielbarnes175/  
-:rabbit2: Twitter: https://twitter.com/Bballdaniel3  
+🐢 Email: danielbarnes175@gmail.com  
+🐧 LinkedIn: https://www.linkedin.com/in/danielbarnes175/  
+🐇 Twitter: https://twitter.com/Bballdaniel3  
 
 ---
