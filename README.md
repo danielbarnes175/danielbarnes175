@@ -12,8 +12,7 @@ While looking through my profile, you're going to find various projects I've wor
 :point_right: If you're not here to check out anything specific, the pinned repos are always a good place to start. 
 
 ***Looking to see what I'm currently working on?***  
-:point_right: Most of my development time is spent at work, but in my free time, I'm enjoying working on [Sons of Ordson](https://github.com/danielbarnes175/SonsOfOrdson), a text based sandbox game set in my friend's D&D world.
-
+:point_right: Most of my development time is spent at work, but in my free time, I'm enjoying working on a visual novel with some of my friends. (Sorry, it's closed source)
 ***Looking for fun facts about me?***  
 :point_right: I have a bunch of them, but my most fun fact is that I love to sing and write songs about ramen.
 
