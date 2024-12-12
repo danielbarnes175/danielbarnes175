@@ -21,6 +21,5 @@ While looking through my profile, you're going to find various projects I've wor
 
 🐢 Email: danielbarnes175@gmail.com  
 🐧 LinkedIn: https://www.linkedin.com/in/danielbarnes175/  
-🐇 Twitter: https://twitter.com/Bballdaniel3  
 
 ---
