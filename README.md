@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/PtNYa9a.png)
 
-### Hello World <span><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px" height="30px"></span>
+### Hello World
 
 My name is Daniel. I'm currently a Software Developer at Adobe, and I love to bring my ideas to life. 
 
