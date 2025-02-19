@@ -12,7 +12,7 @@ While looking through my profile, you're going to find various projects I've wor
 :point_right: If you're not here to check out anything specific, the pinned repos are always a good place to start. 
 
 ***Looking to see what I'm currently working on?***  
-:point_right: Most of my development time is spent at work, but in my free time, I'm enjoying working on a visual novel with some of my friends. (Sorry, it's closed source)  
+:point_right: Most of my development time is spent at work, but in my free time, I'm enjoying [setting up self hosted applications](https://wiki.bballdaniel3.com/books/architecture/page/architecture-overview).
 
 ***Looking for fun facts about me?***  
 :point_right: I have a bunch of them, but my most fun fact is that I love to sing and write songs about ramen.
